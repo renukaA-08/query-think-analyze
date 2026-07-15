@@ -16,3 +16,4 @@ from
     group by category,product
   )t
 where rn <=2
+order by category , rn 
