@@ -28,6 +28,6 @@ https://datalemur.com/questions/signup-confirmation-rate
 
 ## SQL Topics :
 
- - Left join
- -`count()`
+ -  Left join
+ - `count()`
  - `round()`
