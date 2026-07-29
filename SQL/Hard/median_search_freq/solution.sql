@@ -12,6 +12,6 @@ SELECT
 FROM
   cte
 where 
-  ((tot_cnt+1)/2 between cmf - num_users +1 and cmf )
+  ((tot_cnt+1)/2.0 between cmf - num_users +1 and cmf )
   OR
-  ((tot_cnt+2)/2 between cmf - num_users +1 and cmf )
+  ((tot_cnt+2)/2.0 between cmf - num_users +1 and cmf )
