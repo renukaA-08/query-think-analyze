@@ -37,5 +37,3 @@ https://datalemur.com/questions/repeated-payments
  5. Timestamp Arithmetic
  6. WHERE Clause
  7. `COUNT()`
-
-on of **CTE + Window Functions + LAG() + PARTITION BY + timestamp arithmetic** provides an effective way to identify accidental repeated payments while ensuring that the first transaction is not counted.
